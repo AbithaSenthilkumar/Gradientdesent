@@ -3,6 +3,7 @@
 #include <stdio.h>
 
 // Changed function names to be more descriptive
+
 void compute_gradient_wrt_w1(float x1, float x2, float y, float w1, float w2)
 {
     // Computing gradient with respect to w1
